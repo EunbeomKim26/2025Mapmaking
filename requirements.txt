@@ -3,3 +3,7 @@ folium
 streamlit_folium
 koreamize_matplotlib
 plotly
+plotly.express
+pandas
+datetime
+timedelta
