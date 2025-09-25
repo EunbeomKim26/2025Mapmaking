@@ -1,7 +1,7 @@
 streamlit
 folium
 streamlit_folium
-koreamize_matplotlib
+koreanize_matplotlib
 plotly
 plotly.express
 pandas
